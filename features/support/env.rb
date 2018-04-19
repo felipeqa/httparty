@@ -1,0 +1,5 @@
+require 'cucumber'
+require 'selenium-webdriver'
+require 'capybara/dsl'
+require 'pry'
+require 'httparty'
